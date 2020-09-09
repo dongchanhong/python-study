@@ -1,5 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-www.bi-plane.co.kr	TRUE	/	FALSE	1999999999	PHPSESSID	lbtn8cs7ipppibai6p3glf7ja3
-.ionicframework.com	TRUE	/	FALSE	1999999999	__cfduid	dfc7257b10de610b52ea1791fd5a642031572901606
-
